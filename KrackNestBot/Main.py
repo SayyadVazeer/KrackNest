@@ -39,4 +39,4 @@ async def start(ctx):
     await ctx.send("You gonna Miss great Time")
   
     
-client.run('ODYwNjg2NjI1OTU1NjQzNDMy.YN-24g.XAZHasSqkxgHvNyIOZuaBZWE7zA')
+client.run('')
